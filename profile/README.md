@@ -1,3 +1,6 @@
+
+![PumpFun Sniper Screenshot](https://ibb.co/tM7GjjrR)
+
 Snipe meme coins the second they launch on Pump.fun. This sniper bot watches the mempool and buys in faster than any human could react. Perfect for hunting early gems and flipping them for insane gains.  
 - ⚡ Real-time token sniping upon creation  
 - 🧠 Smart filters: liquidity, tax, and owner checks  
